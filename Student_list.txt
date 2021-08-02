@@ -24,4 +24,4 @@
 24. Valery Pesetski
 25. Volodymyr Katarovskyi
 26. Gregory Monakhov
-27. Igor Gavrilyuk
+27. Igor Gavrilyuk 
