@@ -34,4 +34,5 @@
 34. Eugene Lapin
 35. Egor Kharchenko
 36. Vitaliy Skoblia
+37. Dmytro Bidenko
 37. Yevgen Yemtsev
