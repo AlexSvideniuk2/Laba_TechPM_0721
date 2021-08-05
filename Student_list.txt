@@ -44,3 +44,4 @@
 44. Pavel Rudometkin
 45. Marta Oliynyk
 46. Vadim Ritovich
+47. Leonid Rusev
