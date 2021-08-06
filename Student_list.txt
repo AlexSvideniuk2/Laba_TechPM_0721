@@ -7,8 +7,8 @@
 7. Anton Bashunov
 8. Ilya Gelzin
 9. Vialii Ochkov
-10.Yuliia Susidenko
-11.Elena Nagornaya
+10. Yuliia Susidenko
+11. Elena Nagornaya
 12. Veniamin Krachun
 13. Mariia Davydova
 14. Katerina Arinarkina
@@ -40,7 +40,7 @@
 40. Olga Vronskaya
 41. Mariia Bakaieva
 42. Larisa Leybenko
-43.Tattiana Akhmetova
+43. Tattiana Akhmetova
 44. Pavel Rudometkin
 45. Marta Oliynyk
 46. Vadim Ritovich
@@ -48,8 +48,10 @@
 48. Olga Zelenskaya
 49. Alexey Dombrovskiy
 50. Larisa Leybenko2
-51.Anton Maidan
+51. Anton Maidan
 52. Maria Efimova
 53. Nataliya Yurystovska
 54. Larisa Panchenko
 55. Lialia Beniaminova
+56. Victoria Kondratyeva
+
